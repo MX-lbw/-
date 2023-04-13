@@ -1,0 +1,12 @@
+# npm
+package-lock.json
+node_modules
+
+
+
+# vscode
+.vscode
+
+#yarn
+yarn.lock
+yarn-error.log
